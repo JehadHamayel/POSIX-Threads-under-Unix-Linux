@@ -1,0 +1,16 @@
+Production Lines and number of different medicines: 6
+threshold of Production: 100
+threshold of bottled medicine are out of spec: 20
+threshold of pill-based medicine are out of spec: 20
+end time of the simulation: 10
+number of workers for each line: 3
+Range Of speed Production Lines: 1,2
+threshold of time: 2
+normal range of Liquid level: 80,100
+probability of Liquid color matches expected color: 99
+probability of Medicine bottles are properly sealed: 99
+probability of Correct label is properly placed on the bottle: 99
+probability of Medicine expiry date is clearly printed on the bottle and is correct: 99
+probability of No plastic container is missing any pill: 98
+probability of Pills in the plastic containers have the correct color and size: 98
+probability of Medicine expiry date is clearly printed on the plastic container back: 98
